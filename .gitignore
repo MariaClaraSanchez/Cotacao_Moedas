@@ -1,0 +1,4 @@
+env
+chromedriver.exe
+config.yaml
+__pycache__
