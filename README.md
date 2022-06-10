@@ -40,7 +40,6 @@ planilha:
   caminho: '' # caminho onde vai estar a planilha
 ```
 
-
 # Inicializando
 
 Para executar o robô basta executar o comando :
